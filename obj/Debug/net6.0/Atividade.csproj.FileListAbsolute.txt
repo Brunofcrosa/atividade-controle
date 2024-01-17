@@ -1,0 +1,15 @@
+D:\IMPORTANTE ~\Aulas\SENAI\SENAI EAD\controle\atividade\bin\Debug\net6.0\Atividade.exe
+D:\IMPORTANTE ~\Aulas\SENAI\SENAI EAD\controle\atividade\bin\Debug\net6.0\Atividade.deps.json
+D:\IMPORTANTE ~\Aulas\SENAI\SENAI EAD\controle\atividade\bin\Debug\net6.0\Atividade.runtimeconfig.json
+D:\IMPORTANTE ~\Aulas\SENAI\SENAI EAD\controle\atividade\bin\Debug\net6.0\Atividade.dll
+D:\IMPORTANTE ~\Aulas\SENAI\SENAI EAD\controle\atividade\bin\Debug\net6.0\Atividade.pdb
+D:\IMPORTANTE ~\Aulas\SENAI\SENAI EAD\controle\atividade\obj\Debug\net6.0\Atividade.csproj.AssemblyReference.cache
+D:\IMPORTANTE ~\Aulas\SENAI\SENAI EAD\controle\atividade\obj\Debug\net6.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+D:\IMPORTANTE ~\Aulas\SENAI\SENAI EAD\controle\atividade\obj\Debug\net6.0\Atividade.AssemblyInfoInputs.cache
+D:\IMPORTANTE ~\Aulas\SENAI\SENAI EAD\controle\atividade\obj\Debug\net6.0\Atividade.AssemblyInfo.cs
+D:\IMPORTANTE ~\Aulas\SENAI\SENAI EAD\controle\atividade\obj\Debug\net6.0\Atividade.csproj.CoreCompileInputs.cache
+D:\IMPORTANTE ~\Aulas\SENAI\SENAI EAD\controle\atividade\obj\Debug\net6.0\Atividade.dll
+D:\IMPORTANTE ~\Aulas\SENAI\SENAI EAD\controle\atividade\obj\Debug\net6.0\refint\Atividade.dll
+D:\IMPORTANTE ~\Aulas\SENAI\SENAI EAD\controle\atividade\obj\Debug\net6.0\Atividade.pdb
+D:\IMPORTANTE ~\Aulas\SENAI\SENAI EAD\controle\atividade\obj\Debug\net6.0\Atividade.genruntimeconfig.cache
+D:\IMPORTANTE ~\Aulas\SENAI\SENAI EAD\controle\atividade\obj\Debug\net6.0\ref\Atividade.dll
